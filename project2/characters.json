@@ -1,0 +1,92 @@
+[
+    {   
+        "id": 0,
+        "firstName": "Rick",
+        "lastName": "Sanchez",
+        "age": 70,
+        "image": "imgs/rick.svg",
+        "profession": "Scientist",
+        "description": "Richard 'Rick' Sanchez is a sociopathic, nihilistic, grouchy, crude, rude, narcissistic, self-centered, alcoholic mad scientist who is the widow father of Beth Smith and the maternal grandfather of Morty and Summer. His alcoholic tendencies lead his daughter's family to worry about the safety of their son Morty. An extremely intellectual character - frequently referred to by himself and others as the Smartest Man in the Universe."
+    },
+    {
+        "id": 1,
+        "firstName": "Morty",
+        "lastName": "Smith",
+        "age": 14,
+        "image": "imgs/morty.svg",
+        "profession": "Student",
+        "description": "Mortimer 'Morty' Smith is Rick's neurotic 14-year-old grandson who is frequently dragged into Rick's misadventures. Morty is good natured but he is easily distressed. He is often reluctant to follow Rick's plans, and he often ends up traumatized by the unorthodox and morally questionable methods Rick uses to 'fix' situations."
+    },
+    {
+        "id": 2,
+        "firstName": "Summer",
+        "lastName": "Smith",
+        "age": 18,
+        "image": "imgs/summer.svg",
+        "profession": "Student",
+        "description": "Summer Smith is Morty's 17-year-old older sister, a more conventional and often superficial teenager, who is obsessed with improving her status among her peers. Summer is generally similar to her mother, as she is often shown to be very smart and humorous, but she has also shown elements of Jerry's approval-seeking. She occasionally expresses jealousy that Morty gets to accompany Rick on his inter-dimensional adventures."
+    },
+    {   
+        "id": 3,
+        "firstName": "Jerry",
+        "lastName": "Smith",
+        "age": 35,
+        "image": "imgs/jerry.svg",
+        "profession": "Unemployed Idiot",
+        "description": "Gerald 'Jerry' Smith is Summer and Morty's insecure 35-year-old father, Beth's husband, and Rick's son-in-law, who strongly disapproves of Rick's influence over his family. Jerry used to work at a low-level advertising agency until he was fired for incompetence. Generally insecure, he is frequently led into conflicts stemming from opportunistic posturing, while his marriage is sometimes jeopardized by his wife's reactions to his poor relationship with Rick. Beth views Jerry as meek under his boasts, ultimately fearful of confrontation. However, it is strongly suggested that in spite of their problems, they are emotionally co-dependent. "
+    },
+    {
+        "id": 4,
+        "firstName": "Beth",
+        "lastName": "Smith",
+        "age": 35,
+        "image": "imgs/beth.svg",
+        "profession": "Horse Surgeon",
+        "description": "Bethany 'Beth' Smith is Rick's daughter, Summer and Morty's mother, and Jerry's wife. She is a veterinarian who specializes in horse surgery, a job she internally feels to be beneath her and is often defensive when her career is compared to human medicine. Level-headed and assertive, she struggles with her husband's ego, which thrives in defiance of his proven mediocrity. She wanted to become a 'real' surgeon but became pregnant with Summer at 17. She is the most assertive force in her household, while also displaying traits of selfishness, humor, and intelligence."
+    },
+    {
+        "id": 5,
+        "firstName": "Bird",
+        "lastName": "Person",
+        "age": 40,
+        "image": "imgs/birdperson.svg",
+        "profession": "Galactic Rebel",
+        "description": "A superhero-like being who is Rick's best friend. He holds a deep respect for Rick, and often offers Morty insight when Morty considers doing something that would jeopardize his and Rick's relationship. He was at one point in a band with Rick and Squanchy. Birdperson, Rick, and Squanchy were once freedom fighters against the Galactic Federation's oppression; their 'crimes' led the Galactic Federation to issue warrants for their arrests"
+    },
+    {
+        "id": 6,
+        "firstName": "Tammy",
+        "lastName": "Gueterman",
+        "age": 18,
+        "image": "imgs/tammy.svg",
+        "profession": "Galactic Federation Agent",
+        "description": "A deep cover Galactic Federation agent who poses as a classmate of Summer, getting into a romantic relationship with Birdperson. At their wedding, she shoots him after revealing her true identity, and Federation troops arrive to arrest Rick and his friends. She later oversees Birdperson's transformation into a cyborg, renamed Phoenixperson."
+    },
+    {
+        "id": 7,
+        "firstName": "Squanchy",
+        "lastName": "",
+        "age": 38,
+        "image": "imgs/squanchy.svg",
+        "profession": "Galactic Rebel",
+        "description": "A disheveled catlike creature who replaces various words in his sentences with the word 'squanch'. He is a parody of Snarf. Squanchy is one of Rick's best friends and wears a bracelet inscribed with 'Rick's BFF'. Squanchy, Birdperson, and Rick were once freedom fighters against the Galactic Federation's oppression; their 'crimes' led the Galactic Federation to issue warrants for their arrests."
+    },
+    {   
+        "id": 8,
+        "firstName": "Mr.Poopy",
+        "lastName": "Butthole",
+        "age": 45,
+        "image": "imgs/poopybutt.svg",
+        "profession": "Professor",
+        "description": "A yellow humanoid creature and longtime family friend. He is a parody of wacky side characters on television shows. Although he shows up at the same time as a group of Alien Parasites who take the forms of similarly zany characters, Mr. Poopybutthole himself is real. He is severely injured by Beth after she mistakes him for an Alien Parasite and shoots him. Despite being a college professor, he is also proficient in Karate."
+    },
+    {   
+        "id": 9,
+        "firstName": "Mr.",
+        "lastName": "Goldenfold",
+        "age": 52,
+        "image": "imgs/goldenfold.svg",
+        "profession": "High School Teacher",
+        "description": "Mr. Goldenfold is Morty's math teacher. He takes his job very seriously, and is often seen loudly proclaiming the importance of mathematics to his class. He also has a multitude of deeply repressed sexual attractions, suffers from coprophagia, and his wife left him which he copes with by going to Jamba Juice. He also happens to be an expert blacksmith."
+    }
+]
